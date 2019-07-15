@@ -46,7 +46,7 @@
 
 		<!-- Plugin properties -->
 		<maven.eclipse.plugin.version>2.9</maven.eclipse.plugin.version>
-		<maven.compiler.plugin.version>2.5.1</maven.compiler.plugin.version>
+		<maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
 		<version.oauth2-autoconfigure>2.0.6.RELEASE</version.oauth2-autoconfigure>
 
 	</properties>
